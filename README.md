@@ -31,7 +31,7 @@ sudo apt-get install gcc g++ make
 Для быстрого старта необходимо склонировать репозиторий.
 
 ```shell
-git clone https://github.com/luxplanjay/webpack-starter-kit.git
+git clone https://github.com/Triga-Vladimir/Webpack.git
 ```
 
 Переименовать папку сборки именем вашего проекта.
